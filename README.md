@@ -5,9 +5,6 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=550&lines=10%2B+Years+Building+Enterprise+Software;C%23+%7C+.NET+%7C+Angular+%7C+SQL+Server;Clean+Architecture+%7C+Microservices;Currently+exploring+AI+%7C+RAG+%7C+MCP)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=jhforero&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
