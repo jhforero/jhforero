@@ -80,4 +80,14 @@
 ## 📈 Recent Activity / Actividad reciente
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#6](https://github.com/jhforero/repository/pull/6) in [jhforero/repository](https://github.com/jhforero/repository)
+2. 🔒 Closed issue [#4](https://github.com/jhforero/repository/issues/4) in [jhforero/repository](https://github.com/jhforero/repository)
+3. 💪 Opened PR [#6](https://github.com/jhforero/repository/pull/6) in [jhforero/repository](https://github.com/jhforero/repository)
+4. ❗ Opened issue [#5](https://github.com/jhforero/repository/issues/5) in [jhforero/repository](https://github.com/jhforero/repository)
+5. 🔒 Closed issue [#3](https://github.com/jhforero/repository/issues/3) in [jhforero/repository](https://github.com/jhforero/repository)
+6. ❗ Opened issue [#4](https://github.com/jhforero/repository/issues/4) in [jhforero/repository](https://github.com/jhforero/repository)
+7. ❗ Opened issue [#3](https://github.com/jhforero/repository/issues/3) in [jhforero/repository](https://github.com/jhforero/repository)
+8. 🎉 Merged PR [#2](https://github.com/jhforero/repository/pull/2) in [jhforero/repository](https://github.com/jhforero/repository)
+9. 💪 Opened PR [#2](https://github.com/jhforero/repository/pull/2) in [jhforero/repository](https://github.com/jhforero/repository)
+10. ❗ Opened issue [#1](https://github.com/jhforero/repository/issues/1) in [jhforero/repository](https://github.com/jhforero/repository)
 <!--END_SECTION:activity-->
