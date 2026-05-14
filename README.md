@@ -77,8 +77,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=100&section=footer" />
 </div>
 
-### ⚡ Recent Activity
-<!--RECENT_ACTIVITY:start-->
+## 📈 Recent Activity / Actividad reciente
 
-
-<!--RECENT_ACTIVITY:last_update--> 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
