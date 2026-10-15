@@ -80,11 +80,11 @@
 ## 📈 Recent Activity / Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/jhforero/repository/pull/6) in [jhforero/repository](https://github.com/jhforero/repository)
-2. 🔒 Closed issue [#4](https://github.com/jhforero/repository/issues/4) in [jhforero/repository](https://github.com/jhforero/repository)
-3. 💪 Opened PR [#6](https://github.com/jhforero/repository/pull/6) in [jhforero/repository](https://github.com/jhforero/repository)
-4. ❗ Opened issue [#5](https://github.com/jhforero/repository/issues/5) in [jhforero/repository](https://github.com/jhforero/repository)
-5. 🔒 Closed issue [#3](https://github.com/jhforero/repository/issues/3) in [jhforero/repository](https://github.com/jhforero/repository)
+1. 🗣 Commented on [#1](https://github.com/jhforero/opencode-asteroids/issues/1#issuecomment-6183489359) in [jhforero/opencode-asteroids](https://github.com/jhforero/opencode-asteroids)
+2. ❗ Opened issue [#4](https://github.com/jhforero/opencode-asteroids/issues/4) in [jhforero/opencode-asteroids](https://github.com/jhforero/opencode-asteroids)
+3. ❗ Opened issue [#3](https://github.com/jhforero/opencode-asteroids/issues/3) in [jhforero/opencode-asteroids](https://github.com/jhforero/opencode-asteroids)
+4. 🔒 Closed issue [#1](https://github.com/jhforero/opencode-asteroids/issues/1) in [jhforero/opencode-asteroids](https://github.com/jhforero/opencode-asteroids)
+5. ❗ Opened issue [#1](https://github.com/jhforero/opencode-asteroids/issues/1) in [jhforero/opencode-asteroids](https://github.com/jhforero/opencode-asteroids)
 6. ❗ Opened issue [#4](https://github.com/jhforero/repository/issues/4) in [jhforero/repository](https://github.com/jhforero/repository)
 7. ❗ Opened issue [#3](https://github.com/jhforero/repository/issues/3) in [jhforero/repository](https://github.com/jhforero/repository)
 8. 🎉 Merged PR [#2](https://github.com/jhforero/repository/pull/2) in [jhforero/repository](https://github.com/jhforero/repository)
